@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+Pillow==9.1.0
+pytesseract==0.3.9
+streamlink==4.0.1
+twitchAPI==2.5.3
